@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CallBridge</string>
+    <string name="app_title">📞 CallBridge</string>
+    <string name="app_description">Monitor incoming calls and notify your PC</string>
+    <string name="status_label">Status</string>
+    <string name="status_not_monitoring">🟡 Not Monitoring</string>
+    <string name="providers_label">Notification Providers</string>
+    <string name="provider_telegram">Telegram Bot</string>
+    <string name="provider_wifi">Local Wi-Fi</string>
+    <string name="provider_websocket">WebSocket</string>
+    <string name="last_event_label">Last Event</string>
+    <string name="waiting_calls">Waiting for incoming calls...</string>
+    <string name="btn_start">Start Monitoring</string>
+    <string name="btn_stop">Stop Monitoring</string>
+</resources>
