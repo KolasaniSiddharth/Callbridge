@@ -1,12 +1,12 @@
-package com.sid.callbridge
+package com.sid.callbridge.ui.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.sid.callbridge.R
 
-class MainActivity : AppCompatActivity() {
-
+class LogsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_logs)
     }
 }

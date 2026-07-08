@@ -12,4 +12,9 @@
     <string name="waiting_calls">Waiting for incoming calls...</string>
     <string name="btn_start">Start Monitoring</string>
     <string name="btn_stop">Stop Monitoring</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_logs">Logs</string>
+    <string name="provider_name">Provider</string>
+    <string name="log_message">Log Message</string>
 </resources>
